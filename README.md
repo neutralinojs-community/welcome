@@ -7,3 +7,4 @@ This GitHub organization holds Neutralinojs developer tools, extensions, and CLI
 ## Maintainers
 
 - [Your Name](https://github.com/#yourusername)
+- rince1984(https://github.com/#rince1984)
